@@ -1,0 +1,5 @@
+pandas
+openpyxl
+sqlite3
+google-generativeai
+
